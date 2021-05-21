@@ -1,5 +1,7 @@
 # ft_server - 42Lisbon
 
+Create a container with Docker running nginx, wordpress, phpMyAdmin and MySQL.
+
 ## Setup
 - To build: `docker build -t ft_server:msessa .`
 - To run: `docker run -it -p 80:80 -p 443:443 ft_server:msessa`

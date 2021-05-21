@@ -1,4 +1,4 @@
-# ft_server (42 Lisbon)
+# ft_server - 42Lisbon
 
 ## Setup
 - To build: `docker build -t ft_server:msessa .`
